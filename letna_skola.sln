@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_nenajvacsi", "uvod\11_ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_pyramida", "uvod\16_pyramida\16_pyramida.csproj", "{AB1BD95E-2AEE-4A50-8C05-AA903FB7AA56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Fibonacci", "uvod\18_Fibonacci\18_Fibonacci.csproj", "{17FE5DEA-9B22-4797-917E-8896E679866D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{AB1BD95E-2AEE-4A50-8C05-AA903FB7AA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB1BD95E-2AEE-4A50-8C05-AA903FB7AA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB1BD95E-2AEE-4A50-8C05-AA903FB7AA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FE5DEA-9B22-4797-917E-8896E679866D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FE5DEA-9B22-4797-917E-8896E679866D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FE5DEA-9B22-4797-917E-8896E679866D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FE5DEA-9B22-4797-917E-8896E679866D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,5 +99,6 @@ Global
 		{E588B547-EB6A-44C9-A44B-0FF6EA2FFFC6} = {985757A9-AC79-46F0-9026-BA45E8205645}
 		{E6828257-48C3-4B3E-A992-31BF2CC5F418} = {985757A9-AC79-46F0-9026-BA45E8205645}
 		{AB1BD95E-2AEE-4A50-8C05-AA903FB7AA56} = {985757A9-AC79-46F0-9026-BA45E8205645}
+		{17FE5DEA-9B22-4797-917E-8896E679866D} = {985757A9-AC79-46F0-9026-BA45E8205645}
 	EndGlobalSection
 EndGlobal
